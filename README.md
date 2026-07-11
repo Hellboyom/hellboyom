@@ -1,16 +1,37 @@
-## Hi there 👋
+<h2 align="left">
+Hi 👋! My name is Om and I'm a Computer Science student from India.
+</h2>
 
-<!--
-**Hellboyom/hellboyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150"/>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/hellboyom/hellboyom/stats-output/stats.svg" height="150"/>
+
+<img src="https://raw.githubusercontent.com/hellboyom/hellboyom/languages-output/languages.svg" height="150"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hellboyom.hellboyom"/>
+
+</div>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/hellboyom/hellboyom/snake-output/snake.svg"/>

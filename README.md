@@ -7,9 +7,11 @@ Hi 👋! My name is Om and I'm a Computer Science Student from India.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hellboyom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellboyom&layout=compact&theme=dracula&langs_count=5" height="150"/>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hellboyom&theme=dracula"/>
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hellboyom&theme=dracula"/>
+
 </div>
 
 <div align="center">

@@ -41,11 +41,11 @@ Building AI applications • Learning System Design • DSA
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/om-yadav-4a46b0274/)/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="omy819447@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 

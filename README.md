@@ -1,6 +1,18 @@
-<h1 align="left">
-Hi 👋! My name is Om and I'm a Computer Science Student from India.
+<h1 align="center">
+Hi 👋, I'm Om Yadav
 </h1>
+
+<h3 align="center">
+Computer Science Student @ VIT Vellore • AI Enthusiast • Full Stack Developer
+</h3>
+
+<p align="center">
+Building AI applications • Learning System Design • DSA
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Hellboyom.hellboyom"/>
+</p>
 
 <p align="right">
   <img src="https://i.imgflip.com/65efzo.gif" height="150"/>
@@ -21,31 +33,9 @@ Hi 👋! My name is Om and I'm a Computer Science Student from India.
 <h2 align="left">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="10"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="10"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,html,css,nodejs,express,git,docker,mongodb"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="10"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 <h2 align="left">Connect with Me</h2>
 

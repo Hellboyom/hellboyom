@@ -8,9 +8,15 @@ Hi 👋! My name is Om and I'm a Computer Science student from India.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hellboyom/hellboyom/stats-output/stats.svg" height="150"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Hellboyom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  height="150"
+/>
 
-<img src="https://raw.githubusercontent.com/hellboyom/hellboyom/languages-output/languages.svg" height="150"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellboyom&layout=compact&theme=dracula&langs_count=5"
+  height="150"
+/>
 
 </div>
 
